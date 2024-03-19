@@ -40,7 +40,7 @@ I examined the link between different variables using histogram(for numerical va
 Using boxplots, I looked for outliers. Outliers were handled using a function.
 
 5. Machine Learning Models
-I experimented with three different models: Linear regression, Decision tree regression, and Random forest regression.
+I experimented with three different models: Linear regression,Random forest regression, LGBM Regressor , XG Boost Regressor.
 
 6. Result
 The RSME score for all the models were as follows
